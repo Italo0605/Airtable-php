@@ -1,0 +1,17 @@
+{
+    "name": "italo/airtable-project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ítalo Sátiro",
+            "email": "italosatiro2@gmail.com"
+        }
+    ],
+    "require": {
+        "zadorin/airtable-php": "^0.6.0"
+    }
+}
